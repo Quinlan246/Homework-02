@@ -1,0 +1,33 @@
+.header {
+    color: azure;   
+    background-color: lightslategray;
+    font-size: 25px;
+}
+
+.header nav ul {
+    list-style-type: none;  
+}
+
+.header nav ul li {
+    display: inline-block;
+    padding: 0 1em;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+}
+
+footer {
+    background-color: lightslategray;
+    color: azure;
+}
+
+footer nav ul {
+    list-style: none;
+}
+
+footer nav ul li {
+    display: inline-block;
+    padding: 0 1em; 
+}
