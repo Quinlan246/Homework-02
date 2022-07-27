@@ -33,6 +33,11 @@ footer nav ul li {
     padding: 0 1em; 
 }
 
-section ul li {
-list-style: none;
+section h1 p, section h2 p {
+    padding-left: 3em;
+    padding-bottom: 3em;
+}
+
+section {
+    
 }
