@@ -2,6 +2,7 @@
     color: azure;   
     background-color: lightslategray;
     font-size: 25px;
+    text-align: center;
 }
 
 .header nav ul {
@@ -30,4 +31,8 @@ footer nav ul {
 footer nav ul li {
     display: inline-block;
     padding: 0 1em; 
+}
+
+section ul li {
+list-style: none;
 }
