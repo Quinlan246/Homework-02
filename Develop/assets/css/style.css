@@ -1,0 +1,73 @@
+header {  
+    font-size: 40px;
+    text-align: center;
+    color: azure;
+    background-color: #3a4042;
+}
+
+header nav ul {
+    list-style-type: none;  
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 0 1em;
+    color: azure;
+}
+
+.portrait {
+    background: url(/assets/IMG_0985.jpeg) ;
+}
+
+figure img {
+    max-width: 500px;
+    max-height: 500px;
+    float: right;
+    border-radius: 50%;
+    margin: 10%;
+}
+
+.section-headers {
+    font-size: 3em;
+    color: #3a4042;
+    padding-left: 30px;
+}
+
+.section-details {
+    font-size: 25px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    color: azure;
+}
+
+body {
+    background-color: #8ecccc ;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+
+footer {
+    color: azure;
+}
+
+footer nav ul {
+    list-style: none;
+}
+
+footer nav ul li {
+    display: inline-block;
+    padding: 0 1em; 
+    color: azure ;
+}
+
+@media screen and (max-width: 750px) {
+    
+}
+
+@media screen and (max-width: 480px) {
+    
+}
