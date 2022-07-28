@@ -16,10 +16,10 @@ header nav ul li {
 }
 
 .portrait {
-    background: url(/assets/IMG_0985.jpeg) ;
+    background: url(/assets/IMG_0985.jpeg) ; 
 }
 
-figure img {
+.test img {
     max-width: 500px;
     max-height: 500px;
     float: right;
@@ -37,7 +37,24 @@ figure img {
     font-size: 25px;
     padding-bottom: 50px;
     padding-left: 30px;
-    color: azure;
+    color: #212121;
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.project-photos {
+   flex-basis: 33.33%;
+   padding: 5px;
+   box-sizing: border-box;
+}
+
+.project-photos img {
+    max-width: 250px;
+    max-height: 250px;
 }
 
 body {
@@ -46,7 +63,7 @@ body {
 
 a {
     text-decoration: none;
-    color: azure;
+    color: #212121 ;
 }
 
 
@@ -61,7 +78,7 @@ footer nav ul {
 footer nav ul li {
     display: inline-block;
     padding: 0 1em; 
-    color: azure ;
+    color: #212121 ;
 }
 
 @media screen and (max-width: 750px) {
