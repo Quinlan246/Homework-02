@@ -12,3 +12,5 @@ I added an area in the footer with contact info
 
 https://github.com/Quinlan246/Personal-Portfolio
 
+https://quinlan246.github.io/Personal-Portfolio/
+
