@@ -8,9 +8,8 @@ I added a header that has the ability to scroll to parts of the page based off w
 
 I added an area in the footer with contact info
 
-
+![Screenshot](./assets/images/webpage.png)
 
 https://github.com/Quinlan246/Personal-Portfolio
 
 https://quinlan246.github.io/Personal-Portfolio/
-
